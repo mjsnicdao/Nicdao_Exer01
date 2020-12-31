@@ -26,7 +26,7 @@ Note: This Program was executed in a Windows 10 OS
 
 2. Select a file using the upload file button
    
-   ![Upload Image](https://drive.google.com/file/d/1MaggNUMVkdyHB225kD4hM7CwpRx24tWP/view?usp=sharing)
+   ![Upload Image](https://github.com/mjsnicdao/Nicdao_Exer01/blob/master/1.png)
 3. Click the Execute button to run the program
 
     ![Execute Button](https://drive.google.com/file/d/15CrpvGVXtzRo9KKJqeRpU9UVqLhJri3b/view?usp=sharing)
